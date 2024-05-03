@@ -29,7 +29,7 @@
     a {width: 90%; margin: 0 auto 5px; font-family: "Roboto"; font-size: 1.05rem; color: #7b7777; text-decoration: none;}
 
 
-    .image-container {width: 1430px;height: auto;background-image: url('cidadeArteBotanica01.jpg');/* background-size: cover; */background-position: center;position: relative;top: -96px;}
+    .image-container{width: 1400px;height: auto;background-image: url('cidadeArteBotanica01.jpg'); background-repeat: no-repeat;/* background-size: cover; */background-position: center;position: relative;top: -96px;}
 
     .hbox {width: 56%;height: 440px;display: block;background-color: #333333d9;position: relative;overflow: hidden;margin: 0 auto;}
 
